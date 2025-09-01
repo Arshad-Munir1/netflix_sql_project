@@ -9,7 +9,7 @@ This project involves a comprehensive analysis of Netflix's movies and TV shows 
 
 - Analyse the distribution of content types (movies vs TV shows).
 - Identify the most common ratings for movies and TV shows.
-- List and analyze content based on release years, countries, and durations.
+- List and analyse content based on release years, countries, and durations.
 - Explore and categorise content based on specific criteria and keywords.
 
 ## Dataset
