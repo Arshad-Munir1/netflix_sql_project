@@ -290,7 +290,7 @@ LIMIT
 
 **Objective:** Identify the top 10 actors with the most appearances in Indian-produced movies.
 
-### 15. Categorize Content Based on the Presence of 'Kill' and 'Violence' Keywords
+### 15. Categorise Content Based on the Presence of 'Kill' and 'Violence' Keywords
 
 ```sql
 WITH
@@ -314,7 +314,7 @@ GROUP BY
 	CATEGORY
 ```
 
-**Objective:** Categorize content as 'Bad' if it contains 'kill' or 'violence' and 'Good' otherwise. Count the number of items in each category.
+**Objective:** Categorise content as 'Bad' if it contains 'kill' or 'violence' and 'Good' otherwise. Count the number of items in each category.
 
 ## Findings and Conclusion
 
